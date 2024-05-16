@@ -60,6 +60,15 @@ Our data set was of
 
 ### Second the Traditional Approach
 
+We used 2 different traditional approaches to achieve our goal of change detection.
+
+- We used otsu's thresholding algorithm to obtain the threshold value based on intensity distribution among the pixels in the image.
+
+The thresholding algorithm tries to get an equal number of pixels above and below its intensity.
+
+- Image differencing + otsu as a thresholding algorithm
+
+- CVA + otsu as a thresholding algorithm
 
 
 <hr style="background-color: #4b4c60"></hr>
