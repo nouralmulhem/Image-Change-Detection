@@ -70,6 +70,37 @@ The thresholding algorithm tries to get an equal number of pixels above and belo
 
 - CVA + otsu as a thresholding algorithm
 
+## <img  align= center width=50px height=50px src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif"> Results <a id ="results"></a>
+
+<table >
+<thead>
+    <tr>
+      <th style="text-align:center;">A</th>
+      <th style="text-align:center;">B</th>
+      <th style="text-align:center;">Prediction</th>
+      <th style="text-align:center;">Ground Truth</th>
+    </tr>
+  </thead>
+  <tr>
+        <td align="center"><img src="./results/A/0074.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/B/0074.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/ground truth/0074.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/predictions/0074.png" width="150px;" alt="A"/><br /></td>
+  </tr>
+  <tr>
+        <td align="center"><img src="./results/A/0104.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/B/0104.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/ground truth/0104.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/predictions/0104.png" width="150px;" alt="A"/><br /></td>
+  </tr>
+  <tr>
+        <td align="center"><img src="./results/A/0572.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/B/0572.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/ground truth/0572.png" width="150px;" alt="A"/><br /></td>
+        <td align="center"><img src="./results/predictions/0572.png" width="150px;" alt="A"/><br /></td>
+  </tr>
+</table>
+
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
