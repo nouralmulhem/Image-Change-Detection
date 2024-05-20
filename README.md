@@ -124,10 +124,10 @@ The thresholding algorithm tries to get an equal number of pixels above and belo
 <br>
 <table >
   <tr>
-        <td align="center"><a href="https://github.com/EslamAsHhraf"><img src=https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/ahmedmadbouly186"><img src=https://avatars.githubusercontent.com/u/66012617?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Madbouly</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/Ahmed-H300"><img src="https://avatars.githubusercontent.com/u/67925988?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Hany</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/nouralmulhem"><img src=https://avatars.githubusercontent.com/u/76218033?v=4" width="150px;" alt=""/><br /><sub><b>Nour Ziad</b></sub></a><br/></td>
+        <td align="center"><a href="https://github.com/EslamAsHhraf"><img src=https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/ahmedmadbouly186"><img src=https://avatars.githubusercontent.com/u/66012617?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Madbouly</b></sub></a><br /></td>
 
   </tr>
 </table>
