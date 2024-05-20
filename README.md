@@ -2,7 +2,7 @@
 
 <img src="https://i.giphy.com/Ym5Urkj7ReOdCcxLud.webp"/>
 
-    This repository contains the code and documentation for a Change detection project.
+    This repository contains the code and documentation for a Change detection project, the model achived a Jaccard Index score of 61% on unseen data, this model secured the 5th place in the competition of Cairo University Faulty of Engineering
 
 The project uses two approaches:
 
