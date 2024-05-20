@@ -2,30 +2,44 @@
 
 <img src="https://i.giphy.com/Ym5Urkj7ReOdCcxLud.webp"/>
 
-    This repository contains the code and documentation for a Change detection project, the model achived a Jaccard Index score of 61% on unseen data, this model secured the 5th place in the competition of Cairo University Faulty of Engineering
+    This repository contains the code and documentation for a Change detection project, this model secured the 5th place in the competition of Cairo University Faulty of Engineering
 
 The project uses two approaches:
 
 - Traditional Approach
-- Deep Learning Approach 
+- Deep Learning Approach
 
 
 ## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
-- <a href ="#Overview">Overview</a>
+- <a href ="#Overview">Project Overview</a>
+- <a href ="#dataset">Dataset</a>
 - <a href ="#started"> Get Started</a>
 - <a href ="#modules"> Modules</a>
 - <a href ="#contributors">Contributors</a>
 - <a href ="#license">License</a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Project Overview <a id = "Overview"></a>
+## <img align="center"  height =50px src="https://i.giphy.com/VDdh2wgmzsXAc7FCd7.webp">Project Overview <a id = "Overview"></a>
+<ul>
+<li>The objective was to make a change detection model to detect changes in satellite imagery.</li>
+<li>The model achived a Jaccard Index score of 🚀 61% on unseen data</li>
 
-The objective was to make a change detection model to detect changes in satellite imagery.
+<li>🎉 This project ranked the 5th place among 20 teams.</li>
+<li>This project is built using. </li>
+<ul>
+<li><a href="https://www.python.org/">Python</a></li>
+<li><a href="https://pytorch.org/">Pytorch</a></li>
+</ul>
+</ul>
+
+## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Dataset <a id = "dataset"></a>
 
 For example:
 
 - No change
+
 ![nochange](images/image.png)
 - Change
+
 ![change](images/image-2.png)
 
 ## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started <a id = "started"></a>
@@ -70,7 +84,7 @@ The thresholding algorithm tries to get an equal number of pixels above and belo
 
 - CVA + otsu as a thresholding algorithm
 
-## <img  align= center width=50px height=50px src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif"> Results <a id ="results"></a>
+## <img  align= center width=50px height=50px src="https://i.giphy.com/Aq0avaGWjUzo5RVmj0.webp"> Results <a id ="results"></a>
 
 <table >
 <thead>
@@ -110,10 +124,10 @@ The thresholding algorithm tries to get an equal number of pixels above and belo
 <br>
 <table >
   <tr>
-        <td align="center"><a href="https://github.com/Ahmed-H300"><img src="https://avatars.githubusercontent.com/u/67925988?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Hany</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/nouralmulhem"><img src=https://avatars.githubusercontent.com/u/76218033?v=4" width="150px;" alt=""/><br /><sub><b>Nour Ziad</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/EslamAsHhraf"><img src=https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/ahmedmadbouly186"><img src=https://avatars.githubusercontent.com/u/66012617?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Madbouly</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Ahmed-H300"><img src="https://avatars.githubusercontent.com/u/67925988?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Hany</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/nouralmulhem"><img src=https://avatars.githubusercontent.com/u/76218033?v=4" width="150px;" alt=""/><br /><sub><b>Nour Ziad</b></sub></a><br/></td>
 
   </tr>
 </table>
