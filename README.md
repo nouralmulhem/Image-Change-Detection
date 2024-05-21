@@ -91,8 +91,8 @@ The thresholding algorithm tries to get an equal number of pixels above and belo
     <tr>
       <th style="text-align:center;">A</th>
       <th style="text-align:center;">B</th>
-      <th style="text-align:center;">Prediction</th>
       <th style="text-align:center;">Ground Truth</th>
+      <th style="text-align:center;">Prediction</th>
     </tr>
   </thead>
   <tr>
